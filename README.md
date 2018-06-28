@@ -1,2 +1,2 @@
 # SOSplanning
-A Smart solution for pupils to schools allocation
+A Smart decision making support tool for optimizing school planning
